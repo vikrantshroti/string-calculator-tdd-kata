@@ -1,0 +1,17 @@
+{
+    "name": "string-calculator-tdd-kata",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest --watchAll"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@babel/preset-env": "^7.17.10",
+      "jest": "^28.1.0"
+    }
+  }
+  
