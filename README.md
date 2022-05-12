@@ -17,4 +17,4 @@ npm run test
 
 ## tests
 
-![image]()
+![image](https://raw.githubusercontent.com/vikrantshroti/string-calculator-tdd-kata/master/demo.png)
